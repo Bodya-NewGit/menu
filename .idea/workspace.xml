@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbe8b526-4509-4499-bd38-84a9d96d0dff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lesson11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/elva-480w-close-portrait.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/elva-800w.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson10/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson10/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../test/style/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KFLxELRJgqMsm5bUNzAo36z0iZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbe8b526-4509-4499-bd38-84a9d96d0dff" name="Changes" comment="" />
+      <created>1673565631593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673565631593</updated>
+      <workItem from="1673565633425" duration="4503000" />
+      <workItem from="1673570640200" duration="2998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

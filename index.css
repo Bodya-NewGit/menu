@@ -1,0 +1,96 @@
+header {
+    margin-top: 200px;
+    font-family: 'Oxygen', 'Montserrat', sans-serif;
+}
+
+/*превращвем в блоки и оцентровываем*/
+.dd-menu > ul {
+    display: flex;
+    justify-content: center;
+}
+
+.dd-menu ul li {
+    position: relative;
+}
+
+/*делаем ссылки блочными элементами*/
+.dd-menu > ul li a {
+    display: block;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fb83fa+0,e93cec+100;Pink+3D+%232 */
+    background: #fb83fa; /* Old browsers */
+    background: -moz-linear-gradient(top, #fb83fa 0%, #e93cec 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #fb83fa 0%, #e93cec 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #fb83fa 0%, #e93cec 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fb83fa', endColorstr='#e93cec', GradientType=0); /* IE6-9 */
+
+    padding: 15px 30px;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.4s;
+}
+
+.dd-menu > ul li {
+    border-right: 2px solid #9d007e;
+}
+
+.dd-menu > ul li:first-child {
+    border-left: 2px solid #b92e74;
+}
+
+.dd-menu > ul li:last-child {
+    border-right: 2px solid #b92e74;
+}
+
+/*анимируем при наведении с помощью hover*/
+.dd-menu li a:hover {
+    background: rgb(245, 115, 7);
+    color: lemonchiffon;
+    box-shadow: 1px 5px 10px -5px #f54607;
+    transition: all 0.4s;
+}
+
+/*стили для выпадающег меню*/
+.dd-menu li ul {
+    position: absolute;
+    min-width: 150px;
+    /*скрываем подменю*/
+    display: none;
+}
+
+.dd-menu li > ul li {
+    border: 2px solid #b92e74;
+    /*margin-left: -2px;*/
+}
+
+.dd-menu li > ul li a {
+    padding: 10px;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff5db1+0,ef017c+100;Pink+3D+%231 */
+    background: #ff5db1; /* Old browsers */
+    background: -moz-linear-gradient(top, #ff5db1 0%, #ef017c 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #ff5db1 0%, #ef017c 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #ff5db1 0%, #ef017c 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5db1', endColorstr='#ef017c', GradientType=0); /* IE6-9 */
+
+    text-align: center;
+    display: block;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: none;
+    transition: all 0.4s;
+
+}
+
+.dd-menu li > ul li ul {
+    position: absolute;
+    right: -150px;
+    top: -2px;
+    background: rgb(245, 115, 7);
+    box-shadow: 1px 5px 10px -5px #f54607;
+    transition: all 0.4s;
+}
+
+.dd-menu li:hover > ul {
+    display: block;
+
+}
